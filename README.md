@@ -9,7 +9,20 @@
 
 A collection of resources on Reinforcement Learning from Human Feedback (RLHF), mainly focused on pretrained models.
 
-[TOC]
+<!-- TOC -->
+
+- [Awesome Reinforcement Learning from Human Feedback](#awesome-reinforcement-learning-from-human-feedback)
+  - [📜 Papers \& Blog](#-papers--blog)
+    - [Survey](#survey)
+    - [Pre-LM RLHF](#pre-lm-rlhf)
+    - [LM RLHF](#lm-rlhf)
+  - [Repos](#repos)
+  - [Datasets](#datasets)
+  - [Videos \& Lectures](#videos--lectures)
+  - [TODO](#todo)
+  - [📧Contact Me](#contact-me)
+
+<!-- /TOC -->
 
 ## 📜 Papers & Blog
 

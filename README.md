@@ -52,6 +52,7 @@ A collection of resources on Reinforcement Learning from Human Feedback (RLHF), 
 - [Dynamic Planning in Open-Ended Dialogue using Reinforcement Learning](https://arxiv.org/abs/2208.02294)
 - [Is Reinforcement Learning (Not) for Natural Language Processing?: Benchmarks, Baselines, and Building Blocks for Natural Language Policy Optimization](https://arxiv.org/abs/2210.01241) [[Code](https://github.com/allenai/RL4LMs)]
 - [Offline RL for Natural Language Generation with Implicit Language Q Learning](https://arxiv.org/abs/2206.11871) [[Code](https://github.com/Sea-Snell/Implicit-Language-Q-Learning)]
+- [Chunks as Arms: Multi-Armed Bandit-Guided Sampling for Long-Context LLM Preference Optimization](https://arxiv.org/abs/2508.13993) [[Code](https://github.com/NEUIR/LongMab-PO)]
 
 ## Repos
 
